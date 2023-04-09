@@ -17,6 +17,3 @@ Push to the branch (git push origin feature/<feature-name>)
 Create a pull request
 *Credits*
 This project was developed by Aniket Chatterjee along with Jyotirmoy Sarkar, Utkarsh Prakhar, Amitansu Purohit 
-
-*Contact*
-If you have any questions or concerns, please contact Aniket Chatterjee at aniketchatterjee999@gmail.com.
